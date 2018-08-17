@@ -1,0 +1,18 @@
+Standard Error (SE) of Mean Calculator
+SE - estimates the sample mean dispersion from the population mean for statistical data analyis.
+   
+Mean & Standard Deviation is used to estimate the degree of dispersion of the individual data within the sample.
+SEM - helps to estimate the sample mean dispersion from population mean.
+
+Sample mean
+Ux = Summation of x / n
+
+Sample Standard Deviation
+s = Square Root of (1/n-1) * summation (individual elem - sample mean)2
+
+Standard Error of Mean
+SE = s / Square Root of n
+
+
+https://ncalculators.com/statistics/standard-error-calculator.htm
+
